@@ -64,8 +64,6 @@ namespace VideoView
                         {
                             // Между именем параметра и его значением - пробел
                             int bytes = Int32.Parse(line.Split(' ')[1]);
-                            // Пропуск пустой строки
-                            reader.ReadLine();
                             byte[] buffer = new byte[bytes];
                             reader.BaseStream.Read(buffer, 0, bytes);
                             SetNewImage(buffer);
@@ -82,7 +80,7 @@ namespace VideoView
         /// <param name="buffer">хбайты в символьном представлении</param>
         private void SetNewImage(byte[] buffer)
         {
-            Encoding.UTF8.GetString(buffer);
+            File.WriteAllBytes("test.jpg", buffer);
             /*Encoding.UTF8.GetString(byteBuffer);
             ImageConverter imgConverter = new ImageConverter();
             pbVideo.Image = imgConverter.ConvertFrom(byteBuffer) as Image;*/
