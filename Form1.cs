@@ -19,15 +19,20 @@ namespace VideoView
             webContent = new WebContent(pbVideo);
         }
 
-        private async void StartButton_Click(object sender, EventArgs e)
+        private void btnStop_Click(object sender, EventArgs e)
         {
+            webContent.StopGetContent();
+            btnStop.Visible = false;
+            btnStart.Visible = true;
+        }
+
+        private async void btnStart_Click(object sender, EventArgs e)
+        {
+            btnStop.Visible = true;
+            btnStart.Visible = false;
             webContent.StartGetContent();
             await webContent.GetHttpContent();
         }
 
-        private void btnStop_Click(object sender, EventArgs e)
-        {
-            webContent.StopGetContent();
-        }
     }
 }

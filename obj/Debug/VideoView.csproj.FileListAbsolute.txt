@@ -8,3 +8,13 @@ C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.csproj.GenerateRes
 C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.exe
 C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.pdb
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.csproj.AssemblyReference.cache
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.VideoView.resources
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.Properties.Resources.resources
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.csproj.GenerateResource.cache
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.exe
+D:\User\Desktop\Тестовые\VideoView\obj\Debug\VideoView.pdb
+D:\User\Desktop\Тестовые\VideoView\bin\Debug\VideoView.exe.config
+D:\User\Desktop\Тестовые\VideoView\bin\Debug\VideoView.exe
+D:\User\Desktop\Тестовые\VideoView\bin\Debug\VideoView.pdb
