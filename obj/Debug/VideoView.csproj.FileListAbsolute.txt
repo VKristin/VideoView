@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\VideoView\VideoView\bin\Debug\VideoView.exe.config
+C:\Users\User\Desktop\VideoView\VideoView\bin\Debug\VideoView.exe
+C:\Users\User\Desktop\VideoView\VideoView\bin\Debug\VideoView.pdb
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.VideoView.resources
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.Properties.Resources.resources
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.csproj.GenerateResource.cache
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.exe
+C:\Users\User\Desktop\VideoView\VideoView\obj\Debug\VideoView.pdb
